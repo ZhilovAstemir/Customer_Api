@@ -1,0 +1,14 @@
+D:\Eboba\CustomerAPI\src\EFRepository\obj\Debug\net6.0\EFRepository.csproj.AssemblyReference.cache
+D:\Eboba\CustomerAPI\src\EFRepository\obj\Debug\net6.0\EFRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Eboba\CustomerAPI\src\EFRepository\obj\Debug\net6.0\EFRepository.AssemblyInfoInputs.cache
+D:\Eboba\CustomerAPI\src\EFRepository\obj\Debug\net6.0\EFRepository.AssemblyInfo.cs
+D:\Eboba\CustomerAPI\src\EFRepository\obj\Debug\net6.0\EFRepository.csproj.CoreCompileInputs.cache
+D:\Eboba\CustomerAPI\src\EFRepository\bin\Debug\net6.0\EFRepository.deps.json
+D:\Eboba\CustomerAPI\src\EFRepository\bin\Debug\net6.0\EFRepository.runtimeconfig.json
+D:\Eboba\CustomerAPI\src\EFRepository\bin\Debug\net6.0\EFRepository.dll
+D:\Eboba\CustomerAPI\src\EFRepository\bin\Debug\net6.0\ref\EFRepository.dll
+D:\Eboba\CustomerAPI\src\EFRepository\bin\Debug\net6.0\EFRepository.pdb
+D:\Eboba\CustomerAPI\src\EFRepository\obj\Debug\net6.0\EFRepository.dll
+D:\Eboba\CustomerAPI\src\EFRepository\obj\Debug\net6.0\ref\EFRepository.dll
+D:\Eboba\CustomerAPI\src\EFRepository\obj\Debug\net6.0\EFRepository.pdb
+D:\Eboba\CustomerAPI\src\EFRepository\obj\Debug\net6.0\EFRepository.genruntimeconfig.cache
